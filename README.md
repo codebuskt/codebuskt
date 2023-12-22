@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Code Busket | Web & Mobile Developer
 
-[Portfolio Website](https://www.yourportfolio.com) | [Email](mailto:codebusket@gmail.com) | [LinkedIn](https://www.linkedin.com/in/codebusket/) | [GitHub](https://github.com/codebusket)
+🤔 [Portfolio Website](https://www.yourportfolio.com) | 📫 [Email](mailto:codebusket@gmail.com) | ⚡ [LinkedIn](https://www.linkedin.com/in/codebusket/) | 🔭 [GitHub](https://github.com/codebusket)
 
 Hello, I'm Code Busket, a passionate web and mobile developer with 5 years of hands-on experience. My expertise spans across Laravel, Flutter, and various web technologies and languages. I thrive on turning ideas into innovative and user-friendly solutions.
 
