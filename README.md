@@ -2,7 +2,7 @@
 Hi there 👋, I'm codebuskt
 -->
 
-# 👨‍💻 Codebuskt
+# 👨‍💻 Codebuskt/কোডবাকেট
 
 **Software Engineer | Flutter & Web Developer**
 
