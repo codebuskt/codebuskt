@@ -1,51 +1,82 @@
-### Hi there 👋
-
 <!--
-**codebuskt/codebuskt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi there 👋, I'm codebuskt
 -->
-# Code Busket | Web & Mobile Developer
 
-🤔 [Portfolio Website](https://www.yourportfolio.com) | 📫 [Email](mailto:codebusket@gmail.com) | ⚡ [LinkedIn](https://www.linkedin.com/in/codebusket/) | 🔭 [GitHub](https://github.com/codebusket)
+# 👨‍💻 Codebuskt
 
-Hello, I'm Code Busket, a passionate web and mobile developer with 5 years of hands-on experience. My expertise spans across Laravel, Flutter, and various web technologies and languages. I thrive on turning ideas into innovative and user-friendly solutions.
+**Software Engineer | Flutter & Web Developer**
 
-## Tech Stack:
-- **Back-end:** Laravel, Node.js
-- **Front-end:** Flutter, React, Angular
-- **Database:** MySQL, MongoDB
-- **Languages:** PHP, Dart, JavaScript
-- **Tools:** Git, Docker, VS Code
+---
 
-## What I Do:
-- Designing and developing scalable web and mobile applications
-- Creating seamless user experiences and intuitive interfaces
-- Solving complex problems with elegant and efficient solutions
-- Staying updated with the latest technologies and industry trends
+### 🚀 About Me
 
-## Key Achievements:
-- Successfully delivered [project name] resulting in [impact or outcome].
-- Contributed to [open-source project] with [specific contribution].
-- Led a team of developers in the successful completion of [major project].
+- 💻 I’m a passionate Flutter and web developer specializing in building robust solutions using **PHP**, **Laravel**, **JavaScript**, and **Flutter**.
+- 🛠️ Skilled in DevOps, cloud deployments, and agile development practices.
+- 🏢 Experienced working with startups, agencies, and enterprise teams to deliver scalable and reliable software.
+- 🔄 Advocate for clean code, test-driven development, and continuous integration/continuous deployment (CI/CD).
+- 👥 Mentor and collaborator, enjoying code reviews and knowledge sharing within teams.
+- ✨ Open source enthusiast and active contributor to the developer community.
 
-## Always Learning:
-I have a strong belief in continuous learning. Whether it's exploring new frameworks or diving into emerging technologies, I am committed to staying at the forefront of the ever-evolving tech landscape.
+---
 
-## Let's Connect:
-I'm always open to connecting with fellow developers, tech enthusiasts, and potential collaborators. Feel free to reach out for discussions, collaborations, or just to share exciting ideas!
+### 🧰 Tech Stack
 
-## Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/codebusket/)
-- [GitHub](https://github.com/codebuskt)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E74430?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-Let's code the future together! 🚀
+---
+
+### 📦 Featured Projects
+
+- [mary](https://github.com/codebuskt/mary) — My toolkit for modern PHP and Laravel projects.
+- [Filament-Crash](https://github.com/codebuskt/Filament-Crash) — Crash course and components for FilamentPHP.
+- [panel-roles](https://github.com/codebuskt/panel-roles) — Role-based access panel for Laravel apps.
+- [filamentphp_howto](https://github.com/codebuskt/filamentphp_howto) — How-to guides for FilamentPHP.
+
+---
+
+### 🏆 Professional Experience
+
+- **5+ years** in professional software development roles.
+- Led the design and implementation of cross-platform mobile apps and modern web applications.
+- Delivered projects for e-commerce, SaaS, business automation, and social platforms.
+- Integrated third-party APIs, payment gateways, and real-time data solutions.
+- Optimized DevOps pipelines and cloud infrastructure for high-availability production systems.
+- Provided technical leadership and mentorship to junior developers.
+
+---
+
+### 📝 Certifications & Achievements
+
+- Certified Laravel Developer
+- AWS Certified Cloud Practitioner
+- Regular speaker at local developer meetups and tech conferences
+
+---
+
+### 🌐 Connect With Me
+
+- 🌍 [codebusket.com](https://codebusket.com)
+- 🐦 [Twitter/X: @codebusket](https://twitter.com/codebusket)
+- 💼 [LinkedIn: codebusket](https://linkedin.com/in/codebusket)
+- 🎮 Discord: codebusket
+
+---
+
+### 💡 Fun Facts
+
+- Loves building new things and automating workflows.
+- Enjoys learning and sharing knowledge with the community.
+- Always up for collaborating on open source projects!
+- Big fan of coffee ☕ and hackathons.
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.”
